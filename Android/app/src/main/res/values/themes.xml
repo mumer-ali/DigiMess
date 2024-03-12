@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DigiMess" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.DigiMess" parent="Base.Theme.DigiMess" />
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/bsl_in_animation</item>
+        <item name="android:windowExitAnimation">@anim/bsl_out_animation</item>
+    </style>
+
+</resources>

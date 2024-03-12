@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="White">#F2F2F2</color>
+    <color name="Blue">#3D5A80</color>
+    <color name="forVectors">#D8D9DA</color>
+    <color name="forToast">#7A7A7A</color>
+    <color name="Black">#333333</color>
+    <color name="forNavigationVec">#3E3F40</color>
+</resources>
